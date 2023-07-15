@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+.navbar-light .nav-item{
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 120%;
+    color: #121212;
+}
+
+.table-container {
+    overflow-x: auto;
+    max-width: 100%;
+  }
+  
+  .table {
+    white-space: nowrap;
+  }
